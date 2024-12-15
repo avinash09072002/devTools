@@ -6,7 +6,7 @@ public class App {
         System.out.println("hellow there ");
         System.out.println("chanage in plane");
         System.out.println("there there");
-        
+        System.out.println("doing shopping");
         new shopping().doShopping();
     }
 }

@@ -5,7 +5,7 @@ public class UpiPayment {
 	public String doUpiPayment(String upid,float amount) {
 		
 		
-		return "UPI payment is done "+amount+" is done"; 
+		return "UPI payment is done "+amount+" is done df"; 
 	}
 
 }

@@ -7,7 +7,7 @@ public class netbanking {
 	}
 	
 	public void dobank() {
-		System.out.println("hieieh");
+		System.out.println("hieiehdf");
 	}
 
 }
